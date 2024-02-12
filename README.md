@@ -1,3 +1,11 @@
+# Site Restaurante Menu
+## Tecnologias utilizadas
+- HTML5
+- CSS3
+- JavaScript
+- React.Js
+- Node.Js
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
